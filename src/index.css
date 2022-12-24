@@ -55,3 +55,71 @@
   color: #f1356d;
   margin-bottom: 8px;
 }
+
+.blog-preview a {
+  text-decoration: none;
+}
+
+/* Blog Details */
+
+.blog-details .blog-title {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 10px;
+}
+
+.blog-details .body-text {
+  margin: 20px 0;
+}
+
+.blog-details button {
+  background-color: #f1356d;
+  color: #fff;
+  padding: 10px;
+  border-radius: 6px;
+  margin: 10px 0;
+  border: none;
+}
+
+/* Add Blog Page */
+.create {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.create h2 {
+  color: #f1356d;
+  margin: 10px 0;
+}
+
+.create label {
+  font-weight: 500;
+}
+
+.create label, .create input, .create select, textarea {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.create input, .create select, textarea {
+  padding: 10px 0 10px 10px;
+  margin-top: 5px;
+}
+
+.create div {
+  margin: 20px 0;
+}
+
+.create .btn-div {
+  text-align: center;
+}
+
+.create button {
+  background-color: #f1356d;
+  color: #fff;
+  padding: 10px;
+  border-radius: 4px;
+  border: none;
+  display: inline-block;
+  cursor: pointer;
+}
